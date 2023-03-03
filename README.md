@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: they/them
 
-- 🌱 I’m currently working on projects focusedn on Object Oriented Programming
+- 🌱 I’m currently working on projects focused on Object Oriented Programming
 
 - 📫 How to reach me **Aitch.Grasso@gmail.com**
 
