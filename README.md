@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Aitch.Grasso@gmail.com**
 
-- ⚡ Fun H facts: They play the French Horn, learned C# and Unity for a 24h Hackathon, and was once offered a cigarette by Keanu Reeves.
+- ⚡ Fun H facts: They play the French Horn and was once offered a cigarette by Keanu Reeves.
 
 <br>
 
