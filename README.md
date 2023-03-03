@@ -25,13 +25,11 @@ Here are some ideas to get you started:
 
 <br>
 
-- 😄 Pronouns: they/them
+- 🌱 I’m currently: working on multiple group projects focused on Object Oriented Programming
 
-- 🌱 I’m currently working on projects focused on Object Oriented Programming
+- ⚡ Fun H facts: I play the French Horn and was once offered a cigarette by Keanu Reeves.
 
-- 📫 How to reach me **Aitch.Grasso@gmail.com**
-
-- ⚡ Fun H facts: They play the French Horn and was once offered a cigarette by Keanu Reeves.
+- 📫 How to reach me: **Aitch.Grasso@gmail.com**
 
 <br>
 
