@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🌱 I’m currently: working on multiple group projects focused on Object Oriented Programming
+- 🌱 I’m currently: Freelancing and working with local clients. 
+
+- 💬 I’m currently learning: node and react 
 
 - ⚡ Fun H facts: I play the French Horn and was once offered a cigarette by Keanu Reeves.
 
