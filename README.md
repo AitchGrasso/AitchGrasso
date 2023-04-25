@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hgrasso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hgrasso/" height="30" width="40" /></a>
 </p>
 
-<p align="center"> Hello, my name is H (pronounced Aitch)! Hotel Manager turned Software Engineer from Austin, Texas. <br> Previously part of <a href="https://www.crunchbase.com/organization/sonderstays" target="blank">Sonder</a>'s Sr. Operations Management Team for the San Francisco market and Fullstack Developer at <a href="https://www.linkedin.com/company/100devs/" target="blank">100devs</a>. <br> I'm passionate about user experiance and inclusive technology. I enjoy delicately brewed coffee, long hikes, and bugs that aren't in beds. </p>
+<p align="center"> Hello, my name is H (pronounced Aitch)! Hotel Manager turned Software Engineer from Austin, Texas. <br> Previously part of <a href="https://www.crunchbase.com/organization/sonderstays" target="blank">Sonder</a>'s Ops Team for the San Francisco market and Fullstack Developer at <a href="https://www.linkedin.com/company/100devs/" target="blank">100devs</a>. <br> I'm passionate about user experiance and inclusive technology. I enjoy delicately brewed coffee, long hikes, and bugs that aren't in beds. </p>
 
 <br>
 
-- 🌱 I’m currently: Freelancing and working with local clients. 
+- 🌱 I’m currently: Open to opportunities! 
 
-- 💬 I’m currently learning: node and react 
+- 💬 I’m currently learning: React!
 
-- ⚡ Fun H facts: I play the French Horn and was once offered a cigarette by Keanu Reeves.
+- ⚡ Fun H facts: I play the French Horn and was once offered a cigarette by Keanu Reeves. 
 
 - 📫 How to reach me: **Aitch.Grasso@gmail.com**
 
